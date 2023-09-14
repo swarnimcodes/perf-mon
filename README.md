@@ -10,7 +10,7 @@ Monitor System Performance and Generate Logs.
 1. Place the file with the extension .sh in your path.
 2. Make it executable:
 ```shell
-chmod +x local_mon.sh
+$ chmod +x local_mon.sh
 ```
 
 3. Restart your shell and use the following command:
