@@ -1,7 +1,7 @@
 # perf-mon
 ## What does this do?
 
-Monitor System Performance and Generate Logs.
+Monitor System Performance and Generate Logs, continuously.
 
 ## What do the logs look like?
 ![Screenshot of the contents of log file](./img/screenshot.png)
