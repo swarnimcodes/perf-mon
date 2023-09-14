@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# Log file is saved by this name
 LOG_FILE="local_perf.log"
 
 while true; do
