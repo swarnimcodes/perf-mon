@@ -10,7 +10,7 @@ Monitor System Performance and Generate Logs.
 Place the file with the extension .sh in your path.
 Restart your shell and use the following command:
 ```shell
-local_mon
+$ local_mon
 ```
 
 ## Dependencies:
