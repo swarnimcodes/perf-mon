@@ -3,7 +3,10 @@
 
 Monitor System Performance and Generate Logs.
 
-Dependencies:
+## What do the logs look like?
+![Screenshot of the contents of log file](./img/ss.png)
+
+## Dependencies:
 - sed
 - awk
 - bc
