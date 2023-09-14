@@ -4,7 +4,7 @@
 Monitor System Performance and Generate Logs.
 
 ## What do the logs look like?
-![Screenshot of the contents of log file](./img/ss.png)
+![Screenshot of the contents of log file](./img/screenshot.png)
 
 ## How do i use it?
 1. Place the file with the extension .sh in your path.
